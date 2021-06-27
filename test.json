@@ -1,7 +1,0 @@
-[{'received_item_name': 'cbdjk', 'received_item_weight': '500', 'received_item_price': '5000', 'received_item_detail': [
-        {'received_item_name': 'cbdjk', 'received_item_weight': '500', 'received_item_price': '5000'
-        },
-        {...
-        }
-    ], 'pending_amount': '10000', 'buying_amount': '3500', 'collected_amount': '2000', 'overall_total': '3500', 'new_pending_amount': '1500'
-}]
